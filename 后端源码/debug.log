@@ -1,0 +1,13 @@
+{
+   "bv": "BV1YC11YgEr9",
+   "skipparts": [
+      {
+         "start": 30,
+         "end": 34
+      },
+      {
+          "start": 45,
+         "end": 78
+      }
+   ]
+}
